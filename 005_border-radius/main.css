@@ -1,0 +1,26 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../exercise05/dog.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px solid orangered;
+    border-radius: 100%;
+}
+
+.firstimg {
+    border: 10px dotted orangered;
+}
+
+.secondimg {
+    border: 10px dashed orangered;
+}
+
+.thirdimg {
+    border: 10px double orangered;
+}

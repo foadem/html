@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+img {
+    border: 10px solid orangered;
+}
+
+.firstimg {
+    border: 10px dotted orangered;
+}
+
+.secondimg {
+    border: 10px dashed orangered;
+}
+
+.thirdimg {
+    border: 10px double orangered;
+}
